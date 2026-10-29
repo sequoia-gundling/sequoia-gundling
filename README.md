@@ -1,5 +1,30 @@
 ## Hi there 👋
 
+
+# Aspiring Software Developer with interests in:
+
+* Python Development
+C++ Programming
+Automation
+Data Analysis
+Version Control
+Software Documentation
+Technical Skills
+Languages
+Python
+C++
+SQL
+Tools
+Git
+GitHub
+VS Code
+Current Goals
+Build a portfolio of Python and C++ projects
+Strengthen data structures and algorithms skills
+Learn software development best practices
+Contribute to open-source projects
+Featured Projects
+Links will be added as projects are completed.
 <!--
 **sequoia-gundling/sequoia-gundling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
